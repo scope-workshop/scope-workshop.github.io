@@ -1,1 +1,1 @@
-# scope-workshop.github.io
+# representational-alignment.github.io
