@@ -35,7 +35,7 @@ section.smaller {
 }
 /*
 @media screen and (max-width: 540px) {
-    
+
     .navbar-brand {
     	left: 50%;
     	position: fixed;
@@ -53,9 +53,9 @@ section.smaller {
 	font-weight: bold;
 }
 
-/* For Tablets */ 
+/* For Tablets */
 @media screen and (min-width: 540px) and (max-width: 780px) {
-   
+
 
 }
 .btn {
@@ -126,6 +126,19 @@ section.smaller {
 }
 
 
+.profpic .profname2line {
+    text-align: center;
+    font-size: large;
+    height: 47px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    color: black;
+    /* line-height: 47px; */
+  }
+
+.profpic .profname2line a {
+	color: black;
+}
 
 .profpic .profname {
   text-align: center;
@@ -194,8 +207,8 @@ section.smaller {
 }
 
 .navbar.scrolled {
-    background: rgb(220, 220, 220);  IE 
-    background: rgba(220, 220, 220, 1.0); /* NON-IE 
+    background: rgb(220, 220, 220);  IE
+    background: rgba(220, 220, 220, 1.0); /* NON-IE
 /*}*/
 }
 
@@ -297,7 +310,7 @@ ul.list-download li p.download.github a:hover:before{
 .content_publication {
     margin-left: 20px;
     display: inline-block;
-    width: 70%; 
+    width: 70%;
     vertical-align: top;
 }
 
@@ -306,7 +319,7 @@ ul.list-download li p.download.github a:hover:before{
 }
 .icon_publication {
     display: inline-block;
-    width: 20%; 
+    width: 20%;
     vertical-align: top;
 }
 
@@ -474,7 +487,7 @@ button.search_top:hover {
     }
 }
 ul.listpapers li {
-        
+
     display: list-item;
     margin-top:  15px;
     font-size:  15px;
